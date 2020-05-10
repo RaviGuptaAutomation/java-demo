@@ -14,8 +14,8 @@ public class CreateBucket {
 
 	public static void main(String[] args) {
 		
-		String accessKey = "AKIA6JUW4KVLX2DTXLXF";
-		String secretKey = "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";
+		String accessKey = "";
+		String secretKey = "";
 
 
 		AWSCredentials credentials = new BasicAWSCredentials(accessKey, secretKey);
